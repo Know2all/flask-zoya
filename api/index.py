@@ -1,4 +1,7 @@
 from flask import Flask
+import teleBot
+
+teleBot.main()
 
 app = Flask(__name__)
 

@@ -1,1 +1,7 @@
 Flask==3.0.3
+python-telegram-bot
+langchain
+langchain-community
+langchain-google-genai
+faiss-cpu
+sentence-transformers
